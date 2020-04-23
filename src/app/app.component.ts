@@ -21,7 +21,7 @@ export class AppComponent {
       { index: 4, title: "Execute", visited: false },
       { index: 5, title: "Concluded", visited: false },
       { index: 6, title: "Closed", visited: false },
-      { index: 7, title: "Finish", visited: false },
+      // { index: 7, title: "Finish", visited: false },
     ];
   }
 
