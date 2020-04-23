@@ -199,7 +199,7 @@ h6 {
     padding: 30px 0;
 
     .step {
-      width: 150px;
+      width: 120px;
       position: relative;
       display: flex;
       flex-flow: column nowrap;
@@ -254,7 +254,7 @@ h6 {
       height: 2px;
       background: #dedede;
       top: 15px;
-      left: -70%;
+      left: -75%;
     }
 
     .step.visited:after {
